@@ -1,5 +1,6 @@
 # 🧠 EEG Brain Source & Live Flow Chart Explorer
 
+![image](flowplusbrain)
 
 This application provides a comprehensive toolkit for neuroscientific analysis, combining 3D brain source
 localization with advanced state-space analysis of EEG data. It allows users to load EEG recordings, visualize cortical
@@ -61,18 +62,17 @@ Clone or download the repository/script.
 Install the required packages:
 You can install all dependencies using pip.
 
-Bash
-
 pip install mne scikit-learn matplotlib numpy pyvista pyvistaqt
+
 MNE fsaverage Template:
+
 The first time you run an analysis, the application will need to download the MNE fsaverage brain template (approx. 500MB). It will be saved
 automatically to your user's home directory (e.g., C:\Users\YourUser\mne_data). This is a one-time process. Please ensure you have an internet
 connection for the first run.
 
-Usage
-Run the application from your terminal:
+# Usage
 
-Bash
+Run the application from your terminal:
 
 python flowplus3dbraingemini.py
 
@@ -89,4 +89,4 @@ a background thread. You can monitor progress in the "Log & Results" tab.
 Interact: Use the timeline slider and the "▶ Play" button to explore the brain dynamics over time. Observe how the highlighted state in th
 e flow chart changes in sync with the activity on the 3D brain model.
 
-Licence MIT
+# Licence MIT
