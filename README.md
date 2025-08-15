@@ -1,6 +1,9 @@
 # 🧠 EEG Brain Source & Live Flow Chart Explorer
 
-![image](flowplusbrain)
+![image](flowplusbrain.png)
+
+![image2](flowplusbrain2.png)
+
 
 This application provides a comprehensive toolkit for neuroscientific analysis, combining 3D brain source
 localization with advanced state-space analysis of EEG data. It allows users to load EEG recordings, visualize cortical
