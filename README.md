@@ -1,8 +1,7 @@
 # 🧠 EEG Brain Source & Live Flow Chart Explorer
 
-![image](flowplusbrain.png)
-
-![image2](flowplusbrain2.png)
+![image](./fplowplusbrain.png)
+![image2](./fplowplusbrain2.png)
 
 
 This application provides a comprehensive toolkit for neuroscientific analysis, combining 3D brain source
